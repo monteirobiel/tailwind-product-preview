@@ -8,9 +8,15 @@ const config: Config = {
   ],
   theme: {
     extend: {
+      spacing: {
+        h1: "30rem",
+        w1: "20rem",
+      },
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+        bg: "hsl(30, 38%, 92%)",
+        desc: "hsl(228, 12%, 48%)",
+        price: "hsl(158, 36%, 37%)",
+        h: "#2b5e4b",
       },
     },
   },
