@@ -16,8 +16,16 @@ const config: Config = {
         bg: "hsl(30, 38%, 92%)",
         desc: "hsl(228, 12%, 48%)",
         price: "hsl(158, 36%, 37%)",
-        h: "#2b5e4b",
+        hover: "#2b5e4b",
       },
+      fontFamily: {
+        font1: "Fraunces",
+        font2: "Montserrat",
+      },
+      backgroundImage: {
+        'product': "url('src/app/images/image-product-desktop.jpg')",
+        
+      }
     },
   },
   plugins: [],
