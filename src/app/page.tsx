@@ -1,11 +1,17 @@
 import Image from "next/image";
-import img from "./images/image-product-desktop.jpg";
+import productImg from "@/app/images/image-product-desktop.jpg";
 
 export default function Home() {
   return (
     <main>
       <div className="bg-bg h-screen w-screen flex justify-center items-center ">
-        <div className="bg-black h-h1 w-w1 rounded-l-2xl"></div>
+          <Image
+            src={productImg}
+            alt="product image"
+            width={320}
+            height={400}
+            className="rounded-l-2xl"
+          />
         <div className="bg-white h-h1 w-w1 rounded-r-2xl ">
           <div className="p-6 -tracking-tighter text-sm font-font1">
             PERFUME
