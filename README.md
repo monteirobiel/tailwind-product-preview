@@ -8,7 +8,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 Thanks for checking out this front-end coding challenge.
 
-[Frontend Mentor](https://www.frontendmentor.io) This is a FrontEnd Mentor challenge that help improve coding skills by building realistic projects.
+[Frontend Mentor](https://imgur.com/a/ODYEgce) This is a FrontEnd Mentor challenge that help improve coding skills by building realistic projects.
 
 
 ## The challenge
@@ -29,5 +29,5 @@ The challenge is to build out a product preview card component and get it lookin
 
 ## Author
 
-- linkedin - [Gabriel Oliveira](https://www.linkedin.com/in/monteirobiel/)
+- Linkedin Profile - [Gabriel Oliveira](https://www.linkedin.com/in/monteirobiel/)
 **Have fun building!** 🚀
