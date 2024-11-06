@@ -2,13 +2,13 @@
 
 This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-![Design preview ](https://imgur.com/a/ODYEgce)
+[Finished Desing preview](https://imgur.com/a/ODYEgce)
 
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
 
-[Frontend Mentor](https://imgur.com/a/ODYEgce) This is a FrontEnd Mentor challenge that help improve coding skills by building realistic projects.
+[Frontend Mentor](https://www.frontendmentor.io/home) This is a FrontEnd Mentor challenge that help improve coding skills by building realistic projects.
 
 
 ## The challenge
