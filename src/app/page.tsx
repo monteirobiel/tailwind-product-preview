@@ -5,8 +5,8 @@ export default function Home() {
   return (
     <main>
       <div className="bg-bg h-screen w-screen flex justify-center items-center ">
-        <div className="bg-black h-h1 w-w1"></div>
-        <div className="bg-white h-h1 w-w1  ">
+        <div className="bg-black h-h1 w-w1 rounded-l-2xl"></div>
+        <div className="bg-white h-h1 w-w1 rounded-r-2xl ">
           <div className="p-6 -tracking-tighter text-sm font-font1">
             PERFUME
           </div>
