@@ -1,36 +1,33 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Frontend Mentor - Product preview card component
 
-## Getting Started
+This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-First, run the development server:
+![Design preview ](https://imgur.com/a/ODYEgce)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Welcome! 👋
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Thanks for checking out this front-end coding challenge.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+[Frontend Mentor](https://www.frontendmentor.io) This is a FrontEnd Mentor challenge that help improve coding skills by building realistic projects.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
+## The challenge
 
-To learn more about Next.js, take a look at the following resources:
+The challenge is to build out a product preview card component and get it looking as close to the design as possible.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Users should be able to:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- See hover states for interactive elements
 
-## Deploy on Vercel
+### Built with
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Tailwind stylesheet 
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### Useful resources
+
+- [Tailwind](https://tailwindcss.com/) - The documentation helped me for some doubts reason. 
+
+## Author
+
+- linkedin - [Gabriel Oliveira](https://www.linkedin.com/in/monteirobiel/)
+**Have fun building!** 🚀
